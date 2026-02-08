@@ -6,3 +6,4 @@ claude-code-notification is a lightweight CLI tool that integrates Claude AI int
 ## Quick link
 - [for windows](./smart-notify-windows/README.md)
 - [for mac](./smart-notify-macOS/README.md)
+# claude-code-notification
